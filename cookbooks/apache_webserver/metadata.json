@@ -1,0 +1,38 @@
+{
+  "name": "apache_webserver",
+  "description": "Installs/Configures apache_webserver",
+  "long_description": "Installs/Configures apache_webserver",
+  "maintainer": "thumuvikram",
+  "maintainer_email": "thumuvikram@gmail.com",
+  "license": "All Rights Reserved",
+  "platforms": {
+
+  },
+  "dependencies": {
+
+  },
+  "providing": {
+
+  },
+  "attributes": {
+
+  },
+  "recipes": {
+
+  },
+  "version": "1.0.0",
+  "source_url": "",
+  "issues_url": "",
+  "privacy": false,
+  "chef_versions": [
+    [
+      ">= 12.14"
+    ]
+  ],
+  "ohai_versions": [
+
+  ],
+  "gems": [
+
+  ]
+}
